@@ -1230,3 +1230,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.06-19.07.36:162][599]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X256)
 [2022.04.06-19.07.36:162][599]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X256)
 [2022.04.06-19.07.54:768][445]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X512)
+[2022.04.06-19.09.43:722][959]Cmd: TRANSACTION UNDO
+[2022.04.06-19.09.43:722][959]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.04.06-19.09.46:971][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TerenZajebisty" FILE="../../../../../../Users/jansp/Documents/Github/Teledisk/Tele/Content/Maps/TerenZajebisty.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.06-19.09.46:988][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.04.06-19.09.47:132][240]LogSavePackage: Moving '../../../../../../Users/jansp/Documents/Github/Teledisk/Tele/Saved/TerenZajebisty7F5B9C954C65753BBF3BEBA1A61BC2C0.tmp' to '../../../../../../Users/jansp/Documents/Github/Teledisk/Tele/Content/Maps/TerenZajebisty.umap'
+[2022.04.06-19.09.47:155][240]AssetCheck: New page: Asset Save: TerenZajebisty
+[2022.04.06-19.09.47:155][240]LogContentValidation: Display: Validating World /Game/Maps/TerenZajebisty.TerenZajebisty
+[2022.04.06-19.10.25:565][788]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2022.04.06-19.10.38:335][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TerenZajebisty" FILE="../../../../../../Users/jansp/Documents/Github/Teledisk/Tele/Content/Maps/TerenZajebisty.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.06-19.10.38:352][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.04.06-19.10.38:468][730]LogSavePackage: Moving '../../../../../../Users/jansp/Documents/Github/Teledisk/Tele/Saved/TerenZajebisty6EC22C6E41632E336B96D0813AF9EF36.tmp' to '../../../../../../Users/jansp/Documents/Github/Teledisk/Tele/Content/Maps/TerenZajebisty.umap'
+[2022.04.06-19.10.38:489][730]AssetCheck: New page: Asset Save: TerenZajebisty
+[2022.04.06-19.10.38:490][730]LogContentValidation: Display: Validating World /Game/Maps/TerenZajebisty.TerenZajebisty
